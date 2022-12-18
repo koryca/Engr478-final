@@ -1,1 +1,5 @@
-# Engr478-final
+# Engr478-final project
+
+Justin Hong
+Joseph Gorny
+Kory Callanan
