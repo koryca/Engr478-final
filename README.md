@@ -1,5 +1,4 @@
 # Engr478-final project
 
-Justin Hong
-Joseph Gorny
+Team member: Justin Hong\n Joseph Gorny\n
 Kory Callanan
